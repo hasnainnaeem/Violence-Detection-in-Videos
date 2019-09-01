@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be7f823c-93dd-4204-92d0-d0ba073475aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Deploy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deploy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Train.py" beforeDir="false" afterPath="$PROJECT_DIR$/Train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/DataSettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/DataSettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/DeploySettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/DeploySettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/EvaluationSettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/EvaluationSettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/LayerSettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/LayerSettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings/TrainSettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/TrainSettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccuracyCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccuracyCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ViolenceDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ViolenceDetector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/tf_ImageUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/tf_ImageUtils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layers/BasicLayers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/layers/BasicLayers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layers/LayerHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/layers/LayerHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layers/RNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/layers/RNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/G1D19_1Fc_2LSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/G1D19_1Fc_2LSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/G1D19_ResHB_ResHB_1LSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/G1D19_ResHB_ResHB_1LSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/G2D19_BN_Conv_1LSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/G2D19_BN_Conv_1LSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/G2D19_P2OF_ResBB_1LSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/G2D19_P2OF_ResBB_1LSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/G2D19_P2OF_ResHB_1LSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/G2D19_P2OF_ResHB_1LSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/net/G2D19_VGG_1LSTM.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/net/G2D19_VGG_1LSTM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/unit_test/check_VideoAccuracyCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit_test/check_VideoAccuracyCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/Train_Val_Test_spliter.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/Train_Val_Test_spliter.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeployLive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+              <folding>
+                <element signature="e#1#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings/EvaluationSettings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings/DeploySettings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="23" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings/DeployLiveSettings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Deploy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1196">
+              <caret line="60" column="75" selection-start-line="60" selection-start-column="74" selection-end-line="60" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Evaluator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1518">
+              <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data/DataManager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4301">
+              <caret line="198" column="57" selection-start-line="198" selection-start-column="57" selection-end-line="198" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings/DataSettings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="25" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>datasettings</find>
+      <find>queue</find>
+      <find>QUEUE_MAX_SIZE</find>
+      <find>you may</find>
+      <find>trainSettings</find>
+      <find>train</find>
+      <find>epoch</find>
+      <find>G2D19_P2OF_ResHB_1LSTM.py</find>
+      <find>netsettings</find>
+      <find>flow</find>
+      <find>tensorflo</find>
+      <find>tensorflow</find>
+      <find>cuda</find>
+      <find>import Trainer</find>
+      <find>import</find>
+      <find>CPU</find>
+      <find>GetNetwork</find>
+      <find>Classifi</find>
+      <find>Run()</find>
+      <find>Run</find>
+      <find>PATH_TO_TRAIN_SET_CATELOG</find>
+      <find>G2D19_P2OF_ResHB_1LSTM</find>
+      <find>G2D19_P2OF_ResBB_1LSTM</find>
+      <find>NetSettings</find>
+      <find>import Classi</find>
+      <find>Evalua</find>
+      <find>optical</find>
+      <find>i</find>
+      <find>evaluateTestsET</find>
+      <find>opticalFlow</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Evaluate.py" />
+        <option value="$PROJECT_DIR$/settings/EvaluationSettings.py" />
+        <option value="$PROJECT_DIR$/Deploy.py" />
+        <option value="$PROJECT_DIR$/read_camera.py" />
+        <option value="$PROJECT_DIR$/datalists/test.txt" />
+        <option value="$PROJECT_DIR$/datalists/train.txt" />
+        <option value="$PROJECT_DIR$/datalists/val.txt" />
+        <option value="$PROJECT_DIR$/src/data/DataManager.py" />
+        <option value="$PROJECT_DIR$/Deploy.py" />
+        <option value="$PROJECT_DIR$/tools/Train_Val_Test_spliter.py" />
+        <option value="$PROJECT_DIR$/src/data/tf_ImageUtils.py" />
+        <option value="$PROJECT_DIR$/src/net/G1D19_1Fc_2LSTM.py" />
+        <option value="$PROJECT_DIR$/src/net/G2D19_BN_Conv_1LSTM.py" />
+        <option value="$PROJECT_DIR$/src/net/G2D19_VGG_1LSTM.py" />
+        <option value="$PROJECT_DIR$/src/net/G1D19_ResHB_ResHB_1LSTM.py" />
+        <option value="$PROJECT_DIR$/src/net/G2D19_P2OF_ResHB_1LSTM.py" />
+        <option value="$PROJECT_DIR$/src/Classifier.py" />
+        <option value="$PROJECT_DIR$/src/ViolenceDetector.py" />
+        <option value="$PROJECT_DIR$/settings/LayerSettings.py" />
+        <option value="$PROJECT_DIR$/src/AccuracyCalculator.py" />
+        <option value="$PROJECT_DIR$/src/unit_test/check_VideoAccuracyCalculator.py" />
+        <option value="$PROJECT_DIR$/src/layers/RNN.py" />
+        <option value="$PROJECT_DIR$/src/layers/BasicLayers.py" />
+        <option value="$PROJECT_DIR$/src/layers/LayerHelper.py" />
+        <option value="$PROJECT_DIR$/settings/TrainSettings.py" />
+        <option value="$PROJECT_DIR$/src/Trainer.py" />
+        <option value="$PROJECT_DIR$/src/net/G2D19_P2OF_ResBB_1LSTM.py" />
+        <option value="$PROJECT_DIR$/Train.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/settings/DeployLiveSettings.py" />
+        <option value="$PROJECT_DIR$/DeployLive.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be7f823c-93dd-4204-92d0-d0ba073475aa" name="Default Changelist" comment="" />
+      <created>1561981750517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561981750517</updated>
+      <workItem from="1561981753311" duration="1713000" />
+      <workItem from="1562046098603" duration="1694000" />
+      <workItem from="1562051699318" duration="2441000" />
+      <workItem from="1562054515632" duration="1835000" />
+      <workItem from="1562093423047" duration="29000" />
+      <workItem from="1562133171335" duration="3394000" />
+      <workItem from="1562537176963" duration="710000" />
+      <workItem from="1562542215972" duration="2095000" />
+      <workItem from="1563197827929" duration="2228000" />
+      <workItem from="1563200095863" duration="7449000" />
+      <workItem from="1563228785976" duration="670000" />
+      <workItem from="1563230012015" duration="405000" />
+      <workItem from="1563453365014" duration="49000" />
+      <workItem from="1563453454509" duration="36000" />
+      <workItem from="1563453583296" duration="61000" />
+      <workItem from="1563665189904" duration="2377000" />
+      <workItem from="1563729852775" duration="336000" />
+      <workItem from="1563831610247" duration="1064000" />
+      <workItem from="1563832707153" duration="3887000" />
+      <workItem from="1564498355912" duration="689000" />
+      <workItem from="1565513810114" duration="3458000" />
+      <workItem from="1565783965827" duration="180000" />
+      <workItem from="1567378887401" duration="115000" />
+      <workItem from="1567379917401" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36922000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1040" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15834118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Evaluate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Codes/Github/Mastering-OpenCV-4-with-Python/Chapter03/01-chapter-content/read_camera.py" />
+    <entry file="file://$PROJECT_DIR$/read_camera.py" />
+    <entry file="file://$PROJECT_DIR$/datalists/val.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datalists/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datalists/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/VideoData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/Train_Val_Test_spliter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keras-video-classification/train.py" />
+    <entry file="file://$PROJECT_DIR$/../keras-video-classification/predict_video.py" />
+    <entry file="file://$PROJECT_DIR$/src/data/ImageUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ViolenceDetection V2/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ViolenceDetection V2/Deploy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ViolenceDetection V2/Train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding>
+            <element signature="e#20#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ViolenceDetection V2/Main.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/G1D19_1Fc_2LSTM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layers/LayerHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/tf_ImageUtils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/G2D19_BN_Conv_1LSTM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/G1D19_ResHB_ResHB_1LSTM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/G2D19_VGG_1LSTM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/TrainSettings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ViolenceDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-752">
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/G2D19_P2OF_ResBB_1LSTM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="781">
+          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/unit_test/check_DataAugmentation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/NetSettings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/G2D19_P2OF_ResHB_1LSTM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="1219">
+            <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="57" column="46" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="46" />
+          <folding>
+            <element signature="e#20#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeployLive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/EvaluationSettings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/DeploySettings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="23" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/DeployLiveSettings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deploy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="60" column="75" selection-start-line="60" selection-start-column="74" selection-end-line="60" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/DataManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4301">
+          <caret line="198" column="57" selection-start-line="198" selection-start-column="57" selection-end-line="198" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/DataSettings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="25" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
