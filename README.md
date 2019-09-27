@@ -1,15 +1,16 @@
 # Violence Detection by CNN + LSTM
+This repo is extension of [Joshua's project](https://github.com/JoshuaPiinRueyPan/ViolenceDetection). Some additions made to project are:
+- Real-time Predictions on Video Feed from Camera
+- Main.py file to demonstrate all the features of project
+- Code modification to make it work on google colab
+
+
   The proposed approach outperforms the state-of-the-art methods, while still processing the videos in real-time.
 The proposed model has the following advantages:
 1. The ability to use the pre-trained model on ImageNet dataset.
 2. The ability to learn the local motion features by examined the concatenated two frames using CNN.
 3. The ability to learn the global temporal features by LSTM cell.
 ![](src/net/G2D19_P2OF_CNN_1LSTM_series.png)
-
-This repo is extension of [Joshua's project](https://github.com/JoshuaPiinRueyPan/ViolenceDetection). Some additions made to project are:
-- Real-time Predictions on Video Feed from Camera
-- Main.py file to demonstrate all the features of project
-- Code modification to make it work on google colab
 
 For more information, please refer to [Joshua's article](http://joshua-p-r-pan.blogspot.tw/2018/05/violence-detection-by-cnn-lstm.html).
 
