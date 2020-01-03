@@ -2,7 +2,7 @@
 This repo is extension of [Joshua's project](https://github.com/JoshuaPiinRueyPan/ViolenceDetection). Some additions made to project are:
 - Real-time Predictions on Video Feed from Camera
 - Main.py file to demonstrate all the features of project
-- Code modifications to make it work on google colab. Colab notebook is included in the repo. To setup on colab, [upload this zipped project file](https://drive.google.com/file/d/1a1tEKM9ofqBBj-rlDAc8zQOch42eCn8Y/view?usp=sharing) on your google drive account in root directory and run the code in colab notebook. 
+- Code modifications to make it work on google colab. Colab notebook is included in the repo. To setup on colab, [upload this zipped project file](https://drive.google.com/file/d/1a1tEKM9ofqBBj-rlDAc8zQOch42eCn8Y/view?usp=sharing) on your google drive in root directory and run the code in colab notebook. 
 <br />
 
   The proposed approach outperforms the state-of-the-art methods, while still processing the videos in real-time.
