@@ -1,4 +1,8 @@
 # Violence Detection by CNN + LSTM
+[![GitHub stars](https://img.shields.io/github/stars/hasnainnaeem/Violence-Detection-in-Videos)](https://github.com/hasnainnaeem/Violence-Detection-in-Videos/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hasnainnaeem/Violence-Detection-in-Videos)](https://github.com/hasnainnaeem/Violence-Detection-in-Videos/network)
+[![GitHub issues](https://img.shields.io/github/issues/hasnainnaeem/Violence-Detection-in-Videos)](https://github.com/hasnainnaeem/Violence-Detection-in-Videos/issues)
+
 This repo is extension of [Joshua's project](https://github.com/JoshuaPiinRueyPan/ViolenceDetection). Some additions made to project are:
 - Real-time Predictions on Video Feed from Camera
 - Main.py file to demonstrate all the features of project
