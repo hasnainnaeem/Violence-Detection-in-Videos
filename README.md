@@ -9,7 +9,7 @@ This repo is extension of [Joshua's project](https://github.com/JoshuaPiinRueyPa
 - Code modifications to make it work on google colab. Colab notebook is included in the repo. To setup on colab, [upload this zipped project file](https://drive.google.com/file/d/1a1tEKM9ofqBBj-rlDAc8zQOch42eCn8Y/view?usp=sharing) on your google drive in root directory and run the code in colab notebook. 
 - Some work on Gunshot Detection in Audio was also done using Deep Learning. You can find it the code and custom dataset details [here](https://github.com/hasnainnaeem/Gunshot-Detection-in-Audio).
 <br />
-
+## Approach
   The proposed approach outperforms the state-of-the-art methods, while still processing the videos in real-time.
 The proposed model has the following advantages:
 1. The ability to use the pre-trained model on ImageNet dataset.
@@ -19,7 +19,7 @@ The proposed model has the following advantages:
 
 For more information, please refer to [Joshua's article](http://joshua-p-r-pan.blogspot.tw/2018/05/violence-detection-by-cnn-lstm.html).
 
-## Requirement
+## Requirements
 Python3
 
 sk-video
